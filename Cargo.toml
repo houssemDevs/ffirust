@@ -1,0 +1,10 @@
+[package]
+name = "dbacp"
+version = "0.1.0"
+authors = ["houssem"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+regex = "0.1.0"
